@@ -1,0 +1,389 @@
+<root>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$finishRemove(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIfPrevAndIf(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode,java.lang.Boolean&gt;, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicDesc void complete(kotlinx.coroutines.experimental.internal.AtomicOp, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 kotlinx.coroutines.experimental.internal.Removed updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp newNode'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc&lt;T&gt; describeAddLast(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void addLast(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc boolean retry(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void validateNode$kotlinx_coroutines_core(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode takeAffectedNode(kotlinx.coroutines.experimental.internal.OpDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIfPrev(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp makeCondAddOp(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp.Companion java.util.concurrent.atomic.AtomicReferenceFieldUpdater access$getCONSENSUS$p(kotlinx.coroutines.experimental.internal.AtomicOp.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp void complete(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp.Companion java.lang.Object access$getUNDECIDED$p(kotlinx.coroutines.experimental.internal.AtomicOp.Companion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$finishRemove(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc boolean retry(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode takeAffectedNode(kotlinx.coroutines.experimental.internal.OpDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListKt kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode unwrap(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListKt java.lang.Object getCONDITION_FALSE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp.Companion java.lang.Object access$getUNDECIDED$p(kotlinx.coroutines.experimental.internal.AtomicOp.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void validateNode$kotlinx_coroutines_core(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addOneIfEmpty(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListKt java.lang.Object getLIST_EMPTY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc AddLastDesc(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode java.lang.Object access$get_next$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc boolean retry(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListKt java.lang.Object access$getREMOVE_PREPARED$p()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.Removed access$removed(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$set_next$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListKt java.lang.Object getALREADY_REMOVED()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc RemoveFirstDesc(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp java.lang.Object access$getUNDECIDED$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$helpInsert(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.OpDescriptor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp java.util.concurrent.atomic.AtomicReferenceFieldUpdater access$getCONSENSUS$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode java.lang.Object getPrev()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp void complete(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicDesc java.lang.Object prepare(kotlinx.coroutines.experimental.internal.AtomicOp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc boolean retry(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object prepare(kotlinx.coroutines.experimental.internal.AtomicOp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc node'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc AddLastDesc(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIf(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode int tryCondAddNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc queue'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIfPrev(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc boolean retry(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 kotlinx.coroutines.experimental.internal.Removed updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp java.lang.Object perform(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$helpInsert(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.OpDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc void complete(kotlinx.coroutines.experimental.internal.AtomicOp, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp CondAddOp(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc boolean retry(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp makeCondAddOp(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode int tryCondAddNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.OpDescriptor java.lang.Object perform(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$set_prev$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp makeCondAddOp(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.Symbol java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode getOriginalNext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode java.lang.Object access$get_prev$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 kotlinx.coroutines.experimental.internal.Removed updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc&lt;T&gt; describeAddLast(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode int tryCondAddNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.CondAddOp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode takeAffectedNode(kotlinx.coroutines.experimental.internal.OpDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.makeCondAddOp.1 1(kotlin.jvm.functions.Function0, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.Symbol java.lang.String getSymbol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListKt kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode unwrap(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc queue'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$set_next$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListHead java.lang.Void remove()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.Symbol Symbol(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIf(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$finishAdd(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIfPrevAndIf(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode,java.lang.Boolean&gt;, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.AtomicOp.Companion java.util.concurrent.atomic.AtomicReferenceFieldUpdater access$getCONSENSUS$p(kotlinx.coroutines.experimental.internal.AtomicOp.Companion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode takeAffectedNode(kotlinx.coroutines.experimental.internal.OpDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode takeAffectedNode(kotlinx.coroutines.experimental.internal.OpDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$finishAdd(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode void access$set_prev$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode boolean addLastIfPrevAndIf(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode,java.lang.Boolean&gt;, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc java.lang.Object onPrepare(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc boolean validatePrepared(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.describeRemove.1 java.lang.Object updatedNext(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode java.lang.Object access$get_next$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.RemoveFirstDesc&lt;kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode&gt; describeRemoveFirst()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc void finishOnSuccess(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode java.lang.Object access$get_prev$p(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AbstractAtomicDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode kotlinx.coroutines.experimental.internal.Removed access$removed(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

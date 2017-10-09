@@ -1,0 +1,20 @@
+<root>
+    <item name='collections.SparseArraysKt void forEach(android.util.SparseIntArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='collections.SparseArraysKt void forEach(android.util.SparseIntArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='collections.SparseArraysKt void forEach(android.util.SparseArray&lt;E&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super E,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='collections.SparseArraysKt void forEach(android.util.SparseArray&lt;E&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super E,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='collections.SparseArraysKt void forEach(android.util.SparseBooleanArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Boolean,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='collections.SparseArraysKt void forEach(android.util.SparseBooleanArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Boolean,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,98 @@
+<root>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void negativeButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.content.Context getCtx()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void onCancelled(kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void neutralPressed(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.support.v7.app.AlertDialog build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.support.v7.app.AlertDialog show()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void items(java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.DialogInterface,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void onKeyPressed(kotlin.jvm.functions.Function3&lt;? super android.content.DialogInterface,? super java.lang.Integer,? super android.view.KeyEvent,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void positiveButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void setIcon(android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void items(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function3&lt;? super android.content.DialogInterface,? super T,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.graphics.drawable.Drawable getIcon()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void setMessage(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.view.View getCustomTitle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.content.DialogInterface build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.view.View getCustomView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void negativeButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void setCustomTitle(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void negativeButton(int, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void neutralPressed(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder java.lang.CharSequence getMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder java.lang.CharSequence getTitle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void items(java.util.List&lt;? extends java.lang.CharSequence&gt;, kotlin.jvm.functions.Function2&lt;? super android.content.DialogInterface,? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void neutralPressed(int, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder AppcompatAlertBuilder(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void setCustomView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder android.content.DialogInterface show()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void setTitle(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void positiveButton(java.lang.String, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void positiveButton(int, kotlin.jvm.functions.Function1&lt;? super android.content.DialogInterface,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.AppcompatAlertBuilder void items(java.util.List&lt;? extends T&gt;, kotlin.jvm.functions.Function3&lt;? super android.content.DialogInterface,? super T,? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.jetbrains.anko.appcompat.v7.SupportAlertBuilderKt kotlin.jvm.functions.Function1&lt;android.content.Context,org.jetbrains.anko.AlertBuilder&lt;android.support.v7.app.AlertDialog&gt;&gt; getAppcompat()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

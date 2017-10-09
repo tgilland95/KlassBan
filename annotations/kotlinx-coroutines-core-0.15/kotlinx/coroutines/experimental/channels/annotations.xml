@@ -1,0 +1,482 @@
+<root>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel java.lang.Object access$elementAt(kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel.TryOfferDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel.TryOfferDesc boolean validatePrepared(kotlinx.coroutines.experimental.channels.ReceiveOrClosed&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveOrClosed java.lang.Object getOfferResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt ENQUEUE_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendElement java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob actor$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine java.lang.Object send(E, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine java.lang.Object receiveOrNull(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed kotlinx.coroutines.experimental.channels.Closed&lt;E&gt; getOfferResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProducerJob kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;E&gt; getChannel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel CLOSED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Object getPollResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob&lt;E&gt; buildChannel(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ProducerScope&lt;? super E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Void completeResumeReceive(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc&lt;?&gt; describeSendBuffered(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob buildChannel$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel.TryPollDesc boolean validatePrepared(kotlinx.coroutines.experimental.channels.Send) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt java.lang.Object consumeEach(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Channel Factory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel void access$setTail$p(kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode.AddLastDesc&lt;?&gt; describeSendConflated(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed void completeResumeReceive(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine java.lang.Object receive(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void access$removeReceiveOnCancel(kotlinx.coroutines.experimental.channels.AbstractChannel, kotlinx.coroutines.experimental.CancellableContinuation, kotlinx.coroutines.experimental.channels.Receive) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel void registerSelectReceiveOrNull(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine ChannelCoroutine(kotlin.coroutines.experimental.CoroutineContext, kotlinx.coroutines.experimental.channels.Channel&lt;E&gt;, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendElement cont'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob buildChannel$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob&lt;E&gt; produce(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ProducerScope&lt;? super E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendElement void completeResumeSend(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob actor$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel INITIAL_STATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob produce$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel.enqueueReceive..inlined.addLastIfPrevAndIf.1 1(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.channels.AbstractChannel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveOrClosed void completeResumeReceive(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel void registerSelectReceive(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob&lt;E&gt; actor(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ActorScope&lt;E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt java.lang.Object consumeEach(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt SELECT_STARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob&lt;E&gt; actor(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ActorScope&lt;E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void access$removeReceiveOnCancel(kotlinx.coroutines.experimental.channels.AbstractChannel, kotlinx.coroutines.experimental.CancellableContinuation, kotlinx.coroutines.experimental.channels.Receive) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel void access$closeSubscriber(kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel, kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel.Subscriber) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine kotlinx.coroutines.experimental.channels.ChannelIterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel kotlinx.coroutines.experimental.channels.SubscriptionReceiveChannel&lt;E&gt; open()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void registerSelectReceiveOrNull(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel.TryOfferDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Send void completeResumeSend(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob&lt;E&gt; buildChannel(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ProducerScope&lt;? super E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProducerScope kotlinx.coroutines.experimental.channels.SendChannel&lt;E&gt; getChannel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed kotlinx.coroutines.experimental.channels.Closed&lt;E&gt; getPollResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine kotlinx.coroutines.experimental.channels.Channel&lt;E&gt; getChannel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendElement SendElement(java.lang.Object, kotlinx.coroutines.experimental.CancellableContinuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel long access$getTail$p(kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel boolean access$enqueueSend(kotlinx.coroutines.experimental.channels.AbstractSendChannel, kotlinx.coroutines.experimental.channels.SendElement) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel.TryOfferDesc boolean validatePrepared(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine kotlin.coroutines.experimental.CoroutineContext getParentContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Channel.Factory kotlinx.coroutines.experimental.channels.Channel&lt;E&gt; invoke(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt java.lang.Object consumeEach(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed void completeResumeSend(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.LinkedListChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel java.lang.Object send(E, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorJob.DefaultImpls kotlinx.coroutines.experimental.Job plus(kotlinx.coroutines.experimental.channels.ActorJob&lt;? super E&gt;, kotlinx.coroutines.experimental.Job)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Channel.Factory kotlinx.coroutines.experimental.channels.Channel invoke$default(kotlinx.coroutines.experimental.channels.Channel.Factory, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void access$removeReceiveOnCancel(kotlinx.coroutines.experimental.channels.AbstractChannel, kotlinx.coroutines.experimental.CancellableContinuation, kotlinx.coroutines.experimental.channels.Receive) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayChannel java.lang.Object pollSelectInternal(kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Object getOfferResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.LinkedListChannel java.lang.Object offerInternal(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt java.lang.Object consumeEach(kotlinx.coroutines.experimental.channels.BroadcastChannel&lt;E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel void registerSelectReceiveOrNull(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel kotlinx.coroutines.experimental.channels.ChannelIterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel void access$closeSubscriber(kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel, kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel.Subscriber) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void registerSelectReceiveOrNull(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.BroadcastChannel kotlinx.coroutines.experimental.channels.SubscriptionReceiveChannel&lt;E&gt; open()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob buildChannel$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendChannel java.lang.Object send(E, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel void access$closeSubscriber(kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel, kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel.Subscriber) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel boolean access$enqueueSend(kotlinx.coroutines.experimental.channels.AbstractSendChannel, kotlinx.coroutines.experimental.channels.SendElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedChannel java.lang.Object offerInternal(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel kotlinx.coroutines.experimental.internal.LockFreeLinkedListHead getQueue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel void access$updateHead(kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Void completeResumeReceive(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelIterator java.lang.Object next(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProducerJob.DefaultImpls kotlinx.coroutines.experimental.Job plus(kotlinx.coroutines.experimental.channels.ProducerJob&lt;? extends E&gt;, kotlinx.coroutines.experimental.Job) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void registerSelectReceive(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob&lt;E&gt; produce(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ProducerScope&lt;? super E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt java.lang.Object consumeEach(kotlinx.coroutines.experimental.channels.BroadcastChannel&lt;E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine ChannelCoroutine(kotlin.coroutines.experimental.CoroutineContext, kotlinx.coroutines.experimental.channels.Channel&lt;E&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel UNDEFINED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.LinkedListChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt SEND_RESUMED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Object tryResumeSend(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendChannel.DefaultImpls boolean close$default(kotlinx.coroutines.experimental.channels.SendChannel, java.lang.Throwable, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendChannel void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt OFFER_SUCCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel.enqueueSend..inlined.addLastIfPrevAndIf.1 1(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.channels.AbstractSendChannel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine void registerSelectReceiveOrNull(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel void access$closeSubscriber(kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel, kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel.Subscriber) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel kotlinx.coroutines.experimental.channels.ChannelIterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob&lt;E&gt; actor(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ActorScope&lt;E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel kotlinx.coroutines.experimental.channels.AbstractSendChannel.TryOfferDesc&lt;E&gt; describeTryOffer(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel void registerSelectReceive(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt POLL_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Throwable getSendException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel void registerSelectReceive(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt java.lang.Object consumeEach(kotlinx.coroutines.experimental.channels.BroadcastChannel&lt;E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt NULL_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob produce$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelsKt DEFAULT_CLOSE_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt OFFER_FAILED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel.TryPollDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel java.lang.Object pollSelectInternal(kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel.TryPollDesc boolean validatePrepared(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine void registerSelectReceiveOrNull(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel kotlinx.coroutines.experimental.channels.AbstractChannel.TryPollDesc&lt;E&gt; describeTryPoll()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob&lt;E&gt; produce(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ProducerScope&lt;? super E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel kotlinx.coroutines.experimental.channels.SubscriptionReceiveChannel&lt;E&gt; open()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine void registerSelectReceive(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel java.lang.Object send(E, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel.TryPollDesc TryPollDesc(kotlinx.coroutines.experimental.internal.LockFreeLinkedListHead) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel boolean access$enqueueReceive(kotlinx.coroutines.experimental.channels.AbstractChannel, kotlinx.coroutines.experimental.channels.Receive) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob&lt;E&gt; buildChannel(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ProducerScope&lt;? super E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel.TryPollDesc java.lang.Object failure(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel java.lang.Object receiveOrNull(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelIterator java.lang.Object hasNext(kotlin.coroutines.experimental.Continuation&lt;? super java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel java.lang.Object receive(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Channel.Factory kotlinx.coroutines.experimental.channels.Channel invoke$default(kotlinx.coroutines.experimental.channels.Channel.Factory, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractSendChannel.TryOfferDesc TryOfferDesc(E, kotlinx.coroutines.experimental.internal.LockFreeLinkedListHead) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.Closed java.lang.Throwable getReceiveException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorJob kotlinx.coroutines.experimental.channels.SendChannel&lt;E&gt; getChannel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob actor$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorJob.DefaultImpls kotlinx.coroutines.experimental.Job plus(kotlinx.coroutines.experimental.channels.ActorJob&lt;? super E&gt;, kotlinx.coroutines.experimental.Job) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ConflatedBroadcastChannel void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel java.lang.Object offerSelectInternal(E, kotlinx.coroutines.experimental.selects.SelectInstance&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorScope kotlinx.coroutines.experimental.channels.Channel&lt;E&gt; getChannel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel java.lang.Object receive(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ReceiveChannel java.lang.Object receiveOrNull(kotlin.coroutines.experimental.Continuation&lt;? super E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob&lt;E&gt; actor(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2&lt;? super kotlinx.coroutines.experimental.channels.ActorScope&lt;E&gt;,? super kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.SendChannel void registerSelectSend(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannel boolean access$enqueueReceive(kotlinx.coroutines.experimental.channels.AbstractChannel, kotlinx.coroutines.experimental.channels.Receive) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ActorKt kotlinx.coroutines.experimental.channels.ActorJob actor$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlinx.coroutines.experimental.CoroutineStart, kotlin.jvm.functions.Function2, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProducerJob.DefaultImpls kotlinx.coroutines.experimental.Job plus(kotlinx.coroutines.experimental.channels.ProducerJob&lt;? extends E&gt;, kotlinx.coroutines.experimental.Job)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ArrayBroadcastChannel java.lang.Object offerInternal(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.AbstractChannelKt CLOSE_RESUMED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ChannelCoroutine void registerSelectReceive(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.channels.ProduceKt kotlinx.coroutines.experimental.channels.ProducerJob produce$default(kotlin.coroutines.experimental.CoroutineContext, int, kotlin.jvm.functions.Function2, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

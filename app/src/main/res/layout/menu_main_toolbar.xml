@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.Toolbar
+    android:title="@string/app_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:isScrollContainer="true"
+    android:navigationIcon="@drawable/settings_icon"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.internal.NavigationMenuItemView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <android.support.v7.view.menu.ListMenuItemView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Item one"
+            />
+    </android.support.design.internal.NavigationMenuItemView>
+
+</android.support.v7.widget.Toolbar>
+
+    <!-- Settings, should always be in the overflow -->
+

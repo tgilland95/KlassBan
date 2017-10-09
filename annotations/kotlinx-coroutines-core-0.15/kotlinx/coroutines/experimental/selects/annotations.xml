@@ -1,0 +1,209 @@
+<root>
+    <item name='kotlinx.coroutines.experimental.selects.SelectInstance void disposeOnSelect(kotlinx.coroutines.experimental.DisposableHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder.DefaultImpls void onTimeout$default(kotlinx.coroutines.experimental.selects.SelectBuilder, long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onSend(kotlinx.coroutines.experimental.channels.SendChannel&lt;? super E&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onReceiveOrNull(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onTimeout(long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onLock(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder.DefaultImpls void onLock$default(kotlinx.coroutines.experimental.selects.SelectBuilder, kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onJoin(kotlinx.coroutines.experimental.Job, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onTimeout(long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.WhileSelectKt java.lang.Object whileSelect(kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.selects.SelectBuilder&lt;? super java.lang.Boolean&gt;,kotlin.Unit&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectKt java.lang.Object select(kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.selects.SelectBuilder&lt;? super R&gt;,kotlin.Unit&gt;, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onReceive(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectUnbiasedKt java.lang.Object selectUnbiased(kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.selects.SelectBuilder&lt;? super R&gt;,kotlin.Unit&gt;, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.WhileSelectKt java.lang.Object whileSelect(kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.selects.SelectBuilder&lt;? super java.lang.Boolean&gt;,kotlin.Unit&gt;, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onJoin(kotlinx.coroutines.experimental.Job, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onReceive(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onLock(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void resumeSelectWithException(java.lang.Throwable, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onSend(kotlinx.coroutines.experimental.channels.SendChannel&lt;? super E&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onReceiveOrNull(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onJoin(kotlinx.coroutines.experimental.Job, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onReceiveOrNull(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onSend(kotlinx.coroutines.experimental.channels.SendChannel&lt;? super E&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onLock(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl SelectBuilderImpl(kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl kotlin.coroutines.experimental.Continuation&lt;R&gt; getCompletion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onReceiveOrNull(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl kotlin.coroutines.experimental.CoroutineContext createContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectInstance kotlin.coroutines.experimental.Continuation&lt;R&gt; getCompletion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectUnbiasedKt java.lang.Object selectUnbiased(kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.selects.SelectBuilder&lt;? super R&gt;,kotlin.Unit&gt;, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl UnbiasedSelectBuilderImpl(kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void handleBuilderException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onReceive(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onReceive(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onReceiveOrNull(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onSend(kotlinx.coroutines.experimental.channels.SendChannel&lt;? super E&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onJoin(kotlinx.coroutines.experimental.Job, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onLock(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onReceive(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void handleBuilderException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void disposeOnSelect(kotlinx.coroutines.experimental.DisposableHandle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onAwait(kotlinx.coroutines.experimental.Deferred&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder.DefaultImpls void onTimeout$default(kotlinx.coroutines.experimental.selects.SelectBuilder, long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onReceiveOrNull(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onAwait(kotlinx.coroutines.experimental.Deferred&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onTimeout(long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder.DefaultImpls void onLock$default(kotlinx.coroutines.experimental.selects.SelectBuilder, kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onAwait(kotlinx.coroutines.experimental.Deferred&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onSend(kotlinx.coroutines.experimental.channels.SendChannel&lt;? super E&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onLock(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl kotlinx.coroutines.experimental.selects.SelectBuilderImpl&lt;R&gt; getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onJoin(kotlinx.coroutines.experimental.Job, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onTimeout(long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectInstance java.lang.Object performAtomicTrySelect(kotlinx.coroutines.experimental.internal.AtomicDesc) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder.DefaultImpls void onTimeout$default(kotlinx.coroutines.experimental.selects.SelectBuilder, long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectInstance void resumeSelectWithException(java.lang.Throwable, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onAwait(kotlinx.coroutines.experimental.Deferred&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onSend(kotlinx.coroutines.experimental.channels.SendChannel&lt;? super E&gt;, E, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl java.util.ArrayList&lt;kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;&gt; getClauses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onReceive(kotlinx.coroutines.experimental.channels.ReceiveChannel&lt;? extends E&gt;, kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilderImpl void onTimeout(long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onLock(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder void onAwait(kotlinx.coroutines.experimental.Deferred&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectInstance java.lang.Object performAtomicIfNotSelected(kotlinx.coroutines.experimental.internal.AtomicDesc) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectKt java.lang.Object select(kotlin.jvm.functions.Function1&lt;? super kotlinx.coroutines.experimental.selects.SelectBuilder&lt;? super R&gt;,kotlin.Unit&gt;, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onJoin(kotlinx.coroutines.experimental.Job, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.SelectBuilder.DefaultImpls void onLock$default(kotlinx.coroutines.experimental.selects.SelectBuilder, kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.jvm.functions.Function1, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onTimeout(long, java.util.concurrent.TimeUnit, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.selects.UnbiasedSelectBuilderImpl void onAwait(kotlinx.coroutines.experimental.Deferred&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

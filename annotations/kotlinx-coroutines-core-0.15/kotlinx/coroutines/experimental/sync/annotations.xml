@@ -1,0 +1,101 @@
+<root>
+    <item name='kotlinx.coroutines.experimental.sync.MutexKt java.lang.Object withMutex(kotlinx.coroutines.experimental.sync.Mutex, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super T&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.Factory kotlinx.coroutines.experimental.sync.Mutex invoke$default(kotlinx.coroutines.experimental.sync.Mutex.Factory, boolean, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl void registerSelectLock(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexKt java.lang.Object withMutex(kotlinx.coroutines.experimental.sync.Mutex, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super T&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl EmptyLocked'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexKt java.lang.Object withLock(kotlinx.coroutines.experimental.sync.Mutex, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super T&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexKt java.lang.Object withLock(kotlinx.coroutines.experimental.sync.Mutex, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super T&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl LOCK_FAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl void registerSelectLock(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl UNLOCK_FAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.DefaultImpls java.lang.Object lock$default(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.coroutines.experimental.Continuation, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl java.lang.Object access$get_state$p(kotlinx.coroutines.experimental.sync.MutexImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.DefaultImpls java.lang.Object lock$default(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, kotlin.coroutines.experimental.Continuation, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl void access$set_state$p(kotlinx.coroutines.experimental.sync.MutexImpl, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.Factory kotlinx.coroutines.experimental.sync.Mutex invoke$default(kotlinx.coroutines.experimental.sync.Mutex.Factory, boolean, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex void registerSelectLock(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl ENQUEUE_FAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex void registerSelectLock(kotlinx.coroutines.experimental.selects.SelectInstance&lt;? super R&gt;, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl SELECT_SUCCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl java.lang.Object lock(java.lang.Object, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl LOCKED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.DefaultImpls boolean tryLock$default(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl.lockSuspend..inlined.suspendCancellableCoroutine.lambda.1 1(kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, kotlinx.coroutines.experimental.internal.LockFreeLinkedListNode, java.lang.Object, kotlinx.coroutines.experimental.sync.MutexImpl, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex Factory'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl UNLOCKED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexKt java.lang.Object withMutex(kotlinx.coroutines.experimental.sync.Mutex, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super T&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexKt java.lang.Object withLock(kotlinx.coroutines.experimental.sync.Mutex, kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super T&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex java.lang.Object lock(java.lang.Object, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.Factory kotlinx.coroutines.experimental.sync.Mutex invoke(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.Mutex.DefaultImpls void unlock$default(kotlinx.coroutines.experimental.sync.Mutex, java.lang.Object, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.sync.MutexImpl EmptyUnlocked'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

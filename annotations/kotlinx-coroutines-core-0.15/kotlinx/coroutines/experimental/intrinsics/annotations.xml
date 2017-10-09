@@ -1,0 +1,14 @@
+<root>
+    <item name='kotlinx.coroutines.experimental.intrinsics.UndispatchedKt void startCoroutineUndispatched(kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;, E, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.intrinsics.UndispatchedKt void startCoroutineUndispatched(kotlin.jvm.functions.Function2&lt;? super E,? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;, E, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.intrinsics.UndispatchedKt void startCoroutineUndispatched(kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.intrinsics.UndispatchedKt void startCoroutineUndispatched(kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;, kotlin.coroutines.experimental.Continuation&lt;? super R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

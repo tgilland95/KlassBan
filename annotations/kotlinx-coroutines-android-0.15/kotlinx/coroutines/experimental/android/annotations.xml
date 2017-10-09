@@ -1,0 +1,53 @@
+<root>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext kotlinx.coroutines.experimental.DisposableHandle invokeOnTimeout(long, java.util.concurrent.TimeUnit, java.lang.Runnable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext kotlinx.coroutines.experimental.DisposableHandle invokeOnTimeout(long, java.util.concurrent.TimeUnit, java.lang.Runnable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext HandlerContext(android.os.Handler, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext android.os.Handler access$getHandler$p(kotlinx.coroutines.experimental.android.HandlerContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext void scheduleResumeAfterDelay(long, java.util.concurrent.TimeUnit, kotlinx.coroutines.experimental.CancellableContinuation&lt;? super kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext void dispatch(kotlin.coroutines.experimental.CoroutineContext, java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext void dispatch(kotlin.coroutines.experimental.CoroutineContext, java.lang.Runnable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContextKt kotlinx.coroutines.experimental.android.HandlerContext asCoroutineDispatcher(android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext HandlerContext(android.os.Handler, java.lang.String, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext java.lang.Object delay(long, java.util.concurrent.TimeUnit, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext android.os.Handler access$getHandler$p(kotlinx.coroutines.experimental.android.HandlerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext java.lang.Object delay(long, java.util.concurrent.TimeUnit, kotlin.coroutines.experimental.Continuation&lt;? super kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext kotlinx.coroutines.experimental.DisposableHandle invokeOnTimeout(long, java.util.concurrent.TimeUnit, java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContextKt kotlinx.coroutines.experimental.android.HandlerContext getUI()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContextKt kotlinx.coroutines.experimental.android.HandlerContext asCoroutineDispatcher(android.os.Handler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.coroutines.experimental.android.HandlerContext void scheduleResumeAfterDelay(long, java.util.concurrent.TimeUnit, kotlinx.coroutines.experimental.CancellableContinuation&lt;? super kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
